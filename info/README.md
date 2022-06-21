@@ -8,7 +8,7 @@
 
 ## Description
 
-Originally released on 22 Apri 2015, *Let&#8217;s Play: The Shining* is based on Stanley Kubrick&#8217;s movie _[The Shining](http://en.wikipedia.org/wiki/The_Shining_(film))_, which was in turn based on Stephen King&#8217;s book _[The Shining](http://en.wikipedia.org/wiki/The_Shining_(novel))_. It was written in [Haxe](http://haxe.org/) using the [HaxeFlixel](http://www.haxeflixel.com/) library. The music and sound effects in Let&#8217;s Play: The Shining were made with a combination of [bxfr](http://www.bfxr.net/), [Bosca Ceoil](http://distractionware.com/blog/2013/08/bosca-ceoil/), and [Audacity](http://audacity.sourceforge.net/). The graphics were made in [Pixen](http://www.pixenapp.com/).
+Originally released on 22 April 2015, *Let&#8217;s Play: The Shining* is based on Stanley Kubrick&#8217;s movie _[The Shining](http://en.wikipedia.org/wiki/The_Shining_(film))_, which was in turn based on Stephen King&#8217;s book _[The Shining](http://en.wikipedia.org/wiki/The_Shining_(novel))_. It was written in [Haxe](http://haxe.org/) using the [HaxeFlixel](http://www.haxeflixel.com/) library. The music and sound effects in Let&#8217;s Play: The Shining were made with a combination of [bxfr](http://www.bfxr.net/), [Bosca Ceoil](http://distractionware.com/blog/2013/08/bosca-ceoil/), and [Audacity](http://audacity.sourceforge.net/). The graphics were made in [Pixen](http://www.pixenapp.com/).
 
 In June of 2022 I was finally able to convince HaxeFlixel to rebuild the game as a browser-friendly HTML5 version. Nice!
 
