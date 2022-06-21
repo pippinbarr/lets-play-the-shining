@@ -4,7 +4,7 @@
 
 ## [Play Online](https://www.pippinbarr.com/lets-play-the-shining/web/) (HTML5, not mobile-friendly)
 ## [Download for Mac](https://github.com/pippinbarr/lets-play-the-shining/releases/tag/mac)
-## [Download for Windows](https://github.com/pippinbarr/lets-play-the-shining/releases/tag/windows)
+## ~~[Download for Windows](https://github.com/pippinbarr/lets-play-the-shining/releases/tag/windows)~~
 
 ## Description
 
